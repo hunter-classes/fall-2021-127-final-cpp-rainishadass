@@ -1,10 +1,10 @@
 * Fall 2021 - 127 - Final Exam - C++ 
 
-* Last Name: 
+* Last Name: Dass
 
-* First Name: 
+* First Name: Rainisha
 
-* GitHub username: 
+* GitHub username: rainishadass
 
 * Notes:
 
