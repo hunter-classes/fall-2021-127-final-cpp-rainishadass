@@ -25,7 +25,8 @@ void fizzbuzz(int n){
 
 
 int main(){
-  //isRightTriangle(3,4,5);
+  isRightTriangle(3,4,5);
+  std::cout << "\n";
   fizzbuzz(21);
   return 0;
 }
