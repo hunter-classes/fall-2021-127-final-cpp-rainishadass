@@ -1,5 +1,6 @@
 #include <iostream>
 
+// question 1
 void isRightTriangle(int a,int b, int c){
   if((c*c)== (a*a) + (b*b)){
     std::cout << "True\n";
@@ -8,6 +9,7 @@ void isRightTriangle(int a,int b, int c){
   }
 }
 
+// question 2
 void fizzbuzz(int n){
   
   for (int i=1; i<=n;i=i+1){
@@ -25,8 +27,9 @@ void fizzbuzz(int n){
 
 
 int main(){
+  std::cout << "----Question 1----\n";
   isRightTriangle(3,4,5);
-  std::cout << "\n";
+  std::cout << "----Question 2----\n";
   fizzbuzz(21);
   return 0;
 }
